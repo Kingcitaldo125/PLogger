@@ -3,10 +3,6 @@ import os
 import sys
 import time
 
-from datetime import datetime
-from datetime import date
-from enum import Enum, auto
-
 
 class Logger(object):
 	def __init__(self, name):
