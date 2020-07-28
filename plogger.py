@@ -3,8 +3,6 @@ import os
 import sys
 import time
 
-from enum import Enum, auto
-
 
 class Logger(object):
 	def __init__(self, name):
